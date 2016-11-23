@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=motor-board
+*Date=21:08:09
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;32.1733;-18.2974;0;Bottom;Via2
+2;;;23.2833;-8.13735;0;Bottom;Via6
+3;;THT;20.9103;-6.61336;90;Bottom;Battery
+4;;;36.0955;-10.3481;0;Bottom;TXT1
+5;;;32.1733;-22.1074;0;Bottom;Via1
+6;;THT;38.7773;-22.2743;0;Bottom;Right Motor Out
+7;;;19.4733;-8.13735;0;Bottom;Via5
+8;;;22.0133;-22.1074;0;Bottom;Pad1
+9;;;13.1233;-18.2974;0;Bottom;Via4
+10;;THT;23.2833;-38.6174;-90;Bottom;J1
+11;;THT;22.0133;-22.1074;0;Bottom;IC1
+12;;;30.0385;-4.93682;0;Bottom;TXT1
+13;;;13.1233;-22.1074;0;Bottom;Via3
+14;;;36.1246;-7.61995;0;Bottom;TXT1
+15;;THT;8.29733;-22.2743;0;Bottom;Left Motor Out
