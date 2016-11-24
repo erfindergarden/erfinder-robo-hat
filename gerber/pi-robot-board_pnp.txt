@@ -4,7 +4,7 @@
 *eMail=
 *
 *Project=pi-robot-board
-*Date=16:11:05
+*Date=17:25:33
 *CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
 *
 *
@@ -17,30 +17,30 @@
 2;;;32.1733;-19.5674;0;Bottom;Via2
 3;;;10.9474;-33.1874;0;Bottom;Copper Fill5
 4;;;14.3463;-4.77673;0;Bottom;TXT1
-5;;THT;42.5873;-22.2743;0;Bottom;Right Motor Out
-6;;THT;22.1803;-6.61336;90;Bottom;Battery
-7;;;24.2824;-7.6604;0;Bottom;Copper Fill14
-8;;;11.7094;-22.0622;0;Bottom;Copper Fill9
-9;;;43.434;-28.2344;0;Bottom;Copper Fill7
-10;;;8.30044;-11.8836;0;Bottom;TXT1
-11;;THT;5.75733;-22.2743;0;Bottom;Left Motor Out
-12;;THT;22.0133;-22.1074;0;Bottom;IC1
-13;;;21.6916;-44.3634;0;Bottom;Copper Fill4
-14;;;30.1375;-4.77673;0;Bottom;TXT1
-15;;THT;23.2833;-38.6174;-90;Bottom;J1
-16;;;13.1233;-24.6474;0;Bottom;Via3
-17;;;22.0133;-22.1073;0;Bottom;Pad1
-18;;;35.4838;-22.1384;0;Bottom;Copper Fill10
-19;;;37.1444;-7.97382;0;Top;IMG1
-20;;;32.1733;-24.6474;0;Bottom;Via1
-21;;;20.7518;-14.3152;0;Bottom;Copper Fill11
-22;;;4.572;-22.6972;0;Bottom;Copper Fill8
-23;;;13.1233;-19.5674;0;Bottom;Via4
-24;;;21.8186;-7.3556;0;Bottom;Copper Fill15
-25;;;19.4733;-8.13735;0;Bottom;Via5
-26;;;30.5816;-33.8478;0;Bottom;Copper Fill6
-27;;;23.3568;-43.8644;0;Top;TXT1
-28;;;24.2824;-23.3068;0;Bottom;Copper Fill3
+5;;;24.2824;-7.6604;0;Bottom;Copper Fill14
+6;;;11.7094;-22.0622;0;Bottom;Copper Fill9
+7;;;43.434;-28.2344;0;Bottom;Copper Fill7
+8;;;8.30044;-11.8836;0;Bottom;TXT1
+9;;THT;22.0133;-22.1074;0;Bottom;IC1
+10;;;21.6916;-44.3634;0;Bottom;Copper Fill4
+11;;;30.1375;-4.77673;0;Bottom;TXT1
+12;;THT;23.2833;-38.6174;-90;Bottom;J1
+13;;;13.1233;-24.6474;0;Bottom;Via3
+14;;;22.0133;-22.1073;0;Bottom;Pad1
+15;;;35.4838;-22.1384;0;Bottom;Copper Fill10
+16;;;37.1444;-7.97382;0;Top;IMG1
+17;;;32.1733;-24.6474;0;Bottom;Via1
+18;;;20.7518;-14.3152;0;Bottom;Copper Fill11
+19;;;4.572;-22.6972;0;Bottom;Copper Fill8
+20;;THT;42.5873;-22.2743;0;Bottom;Right Motor Out
+21;;;13.1233;-19.5674;0;Bottom;Via4
+22;;;21.8186;-7.3556;0;Bottom;Copper Fill15
+23;;THT;22.1803;-6.61336;90;Bottom;Battery
+24;;;19.4733;-8.13735;0;Bottom;Via5
+25;;;30.5816;-33.8478;0;Bottom;Copper Fill6
+26;;;23.3568;-43.8644;0;Top;TXT1
+27;;;24.2824;-23.3068;0;Bottom;Copper Fill3
+28;;THT;5.75733;-22.2743;0;Bottom;Left Motor Out
 29;;;46.7868;-16.1694;0;Bottom;Copper Fill12
 30;;;10.1313;-5.06277;0;Top;TXT1
 31;;;41.2381;-12.0257;0;Bottom;TXT1
