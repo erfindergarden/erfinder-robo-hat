@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pi-robot-board
+*Date=22:02:02
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;13.1235;-18.2972;0;Bottom;Via4
+2;;;36.0332;-5.41811;0;Bottom;TXT1
+3;;;13.1235;-22.1074;0;Bottom;Via3
+4;;;32.1735;-22.1074;0;Bottom;Via1
+5;;;32.1735;-18.2972;0;Bottom;Via2
+6;;THT;8.29733;-22.2743;0;Bottom;Left Motor Out
+7;;THT;38.7773;-22.2743;0;Bottom;Right Motor Out
+8;;;23.2835;-8.13721;0;Bottom;Via6
+9;;THT;22.0133;-22.1074;0;Bottom;IC1
+10;;THT;20.9104;-6.61348;90;Bottom;Battery
+11;;;19.4735;-8.13721;0;Bottom;Via5
+12;;THT;23.2833;-38.6174;-90;Bottom;J1
+13;;;8.08349;-7.46408;0;Bottom;IMG1
+14;;;22.0133;-22.1073;0;Bottom;Pad1
