@@ -1,4 +1,4 @@
-# pi-robo-board
+# erfinder robot-hat
 
 H-Bridge controller for powering two motors from any Raspberry Pi.
 
