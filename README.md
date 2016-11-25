@@ -1,4 +1,4 @@
-# pi-robo-baord
+# pi-robo-board
 
 H-Bridge controller for powering two motors from any Raspberry Pi.
 
