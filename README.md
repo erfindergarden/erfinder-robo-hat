@@ -9,8 +9,8 @@ H-Bridge controller for powering two motors from any Raspberry Pi.
 2. Connect the motors (Polarity is minor; reverse polarity if motor rotates in the wrong direction)
 3. Plug the board into your Raspberry Pi. Make sure to use the correct pins on your pi and mind the orientation, according to the following images:
 
-<img src="docs/connecting-1.jpg" width="50%" style="float: left;"/>
-<img src="docs/connecting-2.jpg" width="50%" style="float: right;"/>
+<img src="docs/connecting-1.jpg" width="49.5%" style="float: left;"/>
+<img src="docs/connecting-2.jpg" width="49.5%" style="float: right;"/>
 
 ---
 
