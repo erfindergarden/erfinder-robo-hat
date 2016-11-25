@@ -19,5 +19,5 @@ class Erfinderbot(Robot):
 	https://gpiozero.readthedocs.io/en/v1.3.1/api_boards.html#robot
 	"""
 	def __init__(self):
-		Robot.__init__(self, left=(8, 7), right=(14, 15))
+		Robot.__init__(self, left=(15, 14), right=(7, 8))
 

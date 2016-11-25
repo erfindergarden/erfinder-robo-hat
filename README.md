@@ -2,34 +2,45 @@
 
 H-Bridge controller for powering two motors from any Raspberry Pi.
 
+## Connecting
+![](docs/connecting-0.jpg)
 
-## Hardware
+1. Connect the battery pack (5-9V) to the lower screw terminal. **Mind the polarity** (black left, red right)
+2. Connect the motors (Polarity is minor; reverse polarity if motor rotates in the wrong direction)
+3. Plug the board into your Raspberry Pi. Make sure to use the correct pins on your pi and mind the orientation, according to the following images:
 
-### Connecting
+<img src="docs/connecting-1.jpg" width="50%" style="float: left;"/>
+<img src="docs/connecting-2.jpg" width="50%" style="float: right;"/>
 
-![](doc/connecting.jpg)
+---
 
-#### 1. Connect the battery pack (5-9V) to the lower screw terminal. Mind the polarity (black left, red right).
+## Software
+A `Erfinderbot` class is included controlling the robot using Python. It extends the `Robot` class from the [gpiozero library](https://github.com/RPi-Distro/python-gpiozero).
 
-#### 2. Connect the motors
+### Instructions
+1. Copy `Erfinderbot.py` into your project directory
+2. Install gpiozero using the following command `pip install gpiozero`
+3. Then you can create a new `Erfinderbot` instance using the following code:
 
+```python
+from Erfinderbot import Erfinderbot
 
-### Components
+my_robot = Erfinderbot()
+# Now you can use my_robot just like a
+# regular gpiozero.Robot, for example:
+my_robot.forward()
+# time.sleep(1)
+my_robot.stop()
+```
 
-- 1x Circuit Board
-- 1x SN754410NE Dual H-Bridge (DIP-16 enclosure)
-- 1x 16-pin DIP IC socket
-- 3x Two-pin screw header (5mm pitch)
-- 1x 26-pin (2-row) female connector for connection with the RPi
+For more usage examples, please refer to the official [gpiozero documentation](https://gpiozero.readthedocs.io/).
 
+### Without gpiozero
+The left motor is connected to pins BCM 15 and 14, the right one is connected to 7 and 8.
 
-### Milling the Board
+---
 
-The current board design can be milled directly from the included gerber files using a *1/32" flat end mill* and an *80° engraving bit*.
+## Building
 
-It was tested on an **Othermill** using two-sided copper base material.
+Refer to the [manufacturing manual](docs/manufacturing) for instructions on how to fabricate the board on your own.
 
-
-### Assembly
-
-TBD
