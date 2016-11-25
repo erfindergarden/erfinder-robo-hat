@@ -1,4 +1,4 @@
 # pi-robo-board - Documentation
 
 ## Index
- - [Manufacturing](maufacturing.md)
+ - [Manufacturing](manufacturing.md)
