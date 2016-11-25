@@ -42,5 +42,5 @@ The left motor is connected to pins BCM 15 and 14, the right one is connected to
 
 ## Building
 
-Refer to the [manufacturing manual](docs/manufacturing) for instructions on how to fabricate the board on your own.
+Refer to the [manufacturing manual](docs/manufacturing.md) for instructions on how to fabricate the board on your own.
 
