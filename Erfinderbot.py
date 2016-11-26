@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from gpiozero import Robot
 
 __all__ = ['Erfinderbot']
 
