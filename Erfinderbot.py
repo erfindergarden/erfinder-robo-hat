@@ -3,8 +3,6 @@
 
 from gpiozero import Robot
 
-import gpiozero.Robot as Robot
-
 __all__ = ['Erfinderbot']
 
 class Erfinderbot(Robot):
